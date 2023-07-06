@@ -3,6 +3,9 @@ import time
 sl = time.sleep
 
 # Variables for mouse positions
+
+# This variable holds the number of times the fish should
+# be done untill selling
 numberOftimes = 5
 messageInputBoxPos = [1395, 993]
 fishAgainInputPos = [1422, 918]
