@@ -7,8 +7,14 @@ sl = time.sleep
 # This variable holds the number of times the fishing 
 # should be done untill selling
 numberOftimes = 5
+
+# The position x,y of the message input box
 messageInputBoxPos = [1395, 993]
+
+# The position of the fish button
 fishAgainInputPos = [1422, 918]
+
+# The position of the sell button 
 SellInputPos = [1498, 922]
 
 # -------------------------------------
