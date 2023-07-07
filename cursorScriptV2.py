@@ -48,7 +48,8 @@ def main():
             # --- Code || Dont use the code above if your fish command is not on the top of your suggestions
 
             # --- Code number 2
-            pag.hotkey('enter', 'enter')
+            pag.press('enter')
+            pag.press('enter')
             sl(1)
             pag.moveTo(fishBtnPos[0], fishBtnPos[1])
             sl(1)
